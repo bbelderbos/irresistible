@@ -41,6 +41,10 @@ To kill the container docker-demo:
 - Delete the docker-demo container `docker rm docker-demo`
 - Check that the container has been deleted `docker ps -a`
 
+## Git install
+
+If you want to run the app on your own system rather than using Docker, follow [this instruction](webapp/README.md).
+
 ## License
 
 Apache 2.0
